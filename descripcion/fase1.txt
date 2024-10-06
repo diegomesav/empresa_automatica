@@ -1,0 +1,23 @@
+Hola! quiero construir un sistema completo en el que pueda gestionar una empresa.
+Se que el proceso es complejo pero quiero que me ayudes a desarrollarlo paso a paso
+iniciando con la base de datos y finalizando con las vista de los usuarios
+
+Sistema completo:
+    OPERACIONES EN LA BASE DE DATOS:
+        CRUD empleados
+        CRUD proveedores
+        CRUD precios insumos asociados a los proveedores
+        CRUD clientes
+        histórico de clientes
+        CRUD Precio de commpra de productos
+        CRUD Precio de venta de productos
+        Registro de fecha en cada operación
+        histórico de ventas por clientes
+        CRUD categorìa de productos
+    OPERACIONES DEL BACK-END:
+        una API individual para realizar cada una de las operaciones CRUD con las correspondientes validaciones 
+        para minimizar riesgos.
+        Todo bien detalladado utilizando python
+    OPERACIONES FRONT-END:
+        formularios de Registro para realizar cada una de las operaciones descritas desarrollados en react
+        con un aspecto moderno
